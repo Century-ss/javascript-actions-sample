@@ -1,4 +1,4 @@
-name: Test this repository actions
+name: 🧪 Test this repository actions
 
 on: [workflow_dispatch]
 
