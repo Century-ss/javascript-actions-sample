@@ -1,0 +1,9 @@
+printWidth: 100
+tabWidth: 2
+singleQuote: true
+trailingComma: 'none'
+semi: false
+overrides:
+  - files: ['backend/**/*.ts', 'frontend/cdk/**/*.ts']
+    options:
+      printWidth: 150
